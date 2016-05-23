@@ -1,0 +1,194 @@
+09:30:16 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+09:30:16 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+09:30:16 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.8-SNAPSHOT:"9cf57ca":1068
+09:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+09:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+09:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+09:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+09:30:17 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+09:30:17 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:30:17 [INFO] Attempting to update plugin from null to ModuleVersion(build=1068, git=9cf57ca)
+09:30:17 [INFO] Attempting to Jenkins download module cmd_alert v1068
+09:30:18 [INFO] Download complete
+09:30:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1068, git=9cf57ca)
+09:30:18 [INFO] Attempting to Jenkins download module cmd_find v1068
+09:30:18 [INFO] Download complete
+09:30:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1068, git=9cf57ca)
+09:30:18 [INFO] Attempting to Jenkins download module cmd_list v1068
+09:30:18 [INFO] Download complete
+09:30:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1068, git=9cf57ca)
+09:30:18 [INFO] Attempting to Jenkins download module cmd_send v1068
+09:30:19 [INFO] Download complete
+09:30:19 [INFO] Attempting to update plugin from null to ModuleVersion(build=1068, git=9cf57ca)
+09:30:19 [INFO] Attempting to Jenkins download module cmd_server v1068
+09:30:19 [INFO] Download complete
+09:30:19 [INFO] Attempting to update plugin from null to ModuleVersion(build=1068, git=9cf57ca)
+09:30:19 [INFO] Attempting to Jenkins download module reconnect_yaml v1068
+09:30:19 [INFO] Download complete
+09:30:20 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Loaded plugin cmd_find version git:cmd_find:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Loaded plugin cmd_server version git:cmd_server:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Loaded plugin cmd_send version git:cmd_send:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Loaded plugin cmd_list version git:cmd_list:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [WARNING] Forced host server pvp is not defined
+09:30:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:30:20 [INFO] Listening on /0.0.0.0:25577
+09:30:24 [INFO] §cCommand not found
+09:30:27 [INFO] Closing listener [id: 0x5ba11634, /0:0:0:0:0:0:0:0:25577]
+09:30:27 [INFO] Closing pending connections
+09:30:27 [INFO] Disconnecting 0 connections
+09:30:27 [INFO] Closing IO threads
+09:30:29 [INFO] Saving reconnect locations
+09:30:29 [INFO] Disabling plugins
+09:57:03 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+09:57:03 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+09:57:03 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.8-SNAPSHOT:"9cf57ca":1068
+09:57:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+09:57:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+09:57:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+09:57:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+09:57:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+09:57:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:57:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [WARNING] Forced host server pvp is not defined
+09:57:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.8-SNAPSHOT:"9cf57ca":1068 by SpigotMC
+09:57:04 [INFO] Listening on localhost/127.0.0.1:25565
+09:57:13 [INFO] [/127.0.0.1:50522] <-> InitialHandler has connected
+09:57:18 [INFO] [lukealec0518] <-> ServerConnector [lobby] has connected
+09:57:18 [SEVERE] [lukealec0518] <-> ServerConnector [lobby] - encountered exception
+java.lang.RuntimeException: Server is online mode!
+	at net.md_5.bungee.ServerConnector.handle(ServerConnector.java:261)
+	at net.md_5.bungee.protocol.packet.EncryptionRequest.handle(EncryptionRequest.java:56)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:76)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:161)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:150)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:787)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:130)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Unknown Source)
+09:57:19 [INFO] [lukealec0518] disconnected with: §fException Connecting:RuntimeException : Server is online mode! @ net.md_5.bungee.ServerConnector:261
+09:57:19 [INFO] [lukealec0518] <-> ServerConnector [lobby] has disconnected
+09:57:19 [INFO] [lukealec0518] -> UpstreamBridge has disconnected
+09:59:33 [INFO] [lukealec0518] <-> InitialHandler has connected
+09:59:35 [INFO] [lukealec0518] <-> ServerConnector [lobby] has connected
+09:59:36 [SEVERE] [lukealec0518] <-> ServerConnector [lobby] - encountered exception
+java.lang.RuntimeException: Server is online mode!
+	at net.md_5.bungee.ServerConnector.handle(ServerConnector.java:261)
+	at net.md_5.bungee.protocol.packet.EncryptionRequest.handle(EncryptionRequest.java:56)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:76)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:161)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:150)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:787)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:130)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Unknown Source)
+09:59:36 [INFO] [lukealec0518] disconnected with: §fException Connecting:RuntimeException : Server is online mode! @ net.md_5.bungee.ServerConnector:261
+09:59:36 [INFO] [lukealec0518] <-> ServerConnector [lobby] has disconnected
+09:59:36 [INFO] [lukealec0518] -> UpstreamBridge has disconnected
+10:00:45 [INFO] [/127.0.0.1:50556] <-> InitialHandler has connected
+10:00:47 [INFO] [lukealec0518] <-> ServerConnector [lobby] has connected
+10:03:24 [INFO] [lukealec0518] -> UpstreamBridge has disconnected
+10:03:24 [INFO] [lukealec0518] disconnected with: §f[Proxy] Lost connection to server.
+10:03:24 [INFO] [lukealec0518] <-> DownstreamBridge <-> [lobby] has disconnected
+10:19:33 [INFO] [lukealec0518] <-> InitialHandler has connected
+10:19:35 [INFO] [lukealec0518] <-> ServerConnector [lobby] has connected
+10:21:26 [INFO] [lukealec0518] -> UpstreamBridge has disconnected
+10:21:26 [INFO] [lukealec0518] disconnected with: §f[Proxy] Lost connection to server.
+10:21:26 [INFO] [lukealec0518] <-> DownstreamBridge <-> [lobby] has disconnected
+17:00:13 [INFO] Closing listener [id: 0x44fb9d68, /127.0.0.1:25565]
+17:00:13 [INFO] Closing pending connections
+17:00:13 [INFO] Disconnecting 0 connections
+17:00:13 [INFO] Closing IO threads
+17:00:15 [INFO] Saving reconnect locations
+17:00:15 [INFO] Disabling plugins
+17:02:58 [INFO] Using standard Java JCE cipher. To enable the OpenSSL based native cipher, please make sure you are using 64 bit Ubuntu or Debian with libssl installed.
+17:02:58 [INFO] Using standard Java compressor. To enable zero copy compression, run on 64 bit Linux
+17:02:58 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.9-SNAPSHOT:ec48077:1156
+17:02:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+17:02:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+17:02:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+17:02:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+17:02:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+17:02:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:02:59 [INFO] Attempting to update plugin from ModuleVersion(build=1068, git=9cf57ca) to ModuleVersion(build=1156, git=ec48077)
+17:02:59 [INFO] Attempting to Jenkins download module cmd_alert v1156
+17:03:00 [INFO] Download complete
+17:03:00 [INFO] Attempting to update plugin from ModuleVersion(build=1068, git=9cf57ca) to ModuleVersion(build=1156, git=ec48077)
+17:03:00 [INFO] Attempting to Jenkins download module cmd_find v1156
+17:03:00 [INFO] Download complete
+17:03:00 [INFO] Attempting to update plugin from ModuleVersion(build=1068, git=9cf57ca) to ModuleVersion(build=1156, git=ec48077)
+17:03:00 [INFO] Attempting to Jenkins download module cmd_list v1156
+17:03:01 [INFO] Download complete
+17:03:01 [INFO] Attempting to update plugin from ModuleVersion(build=1068, git=9cf57ca) to ModuleVersion(build=1156, git=ec48077)
+17:03:01 [INFO] Attempting to Jenkins download module cmd_send v1156
+17:03:01 [INFO] Download complete
+17:03:02 [INFO] Attempting to update plugin from ModuleVersion(build=1068, git=9cf57ca) to ModuleVersion(build=1156, git=ec48077)
+17:03:02 [INFO] Attempting to Jenkins download module cmd_server v1156
+17:03:02 [INFO] Download complete
+17:03:02 [INFO] Attempting to update plugin from ModuleVersion(build=1068, git=9cf57ca) to ModuleVersion(build=1156, git=ec48077)
+17:03:02 [INFO] Attempting to Jenkins download module reconnect_yaml v1156
+17:03:03 [INFO] Download complete
+17:03:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [WARNING] Forced host server pvp is not defined
+17:03:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.9-SNAPSHOT:ec48077:1156 by SpigotMC
+17:03:04 [INFO] Listening on localhost/127.0.0.1:25565
+17:09:56 [INFO] Netty is not using direct IO buffers.
+17:09:56 [INFO] [/127.0.0.1:61729] <-> InitialHandler has connected
+17:10:01 [INFO] [/127.0.0.1:61781] <-> InitialHandler has connected
+17:10:07 [INFO] [luke0518] <-> ServerConnector [lobby] has connected
+17:12:17 [INFO] [luke0518] -> UpstreamBridge has disconnected
+17:12:17 [INFO] [luke0518] disconnected with: §f[Proxy] Lost connection to server.
+17:12:17 [INFO] [luke0518] <-> DownstreamBridge <-> [lobby] has disconnected
+17:12:21 [INFO] [/127.0.0.1:62656] <-> InitialHandler has connected

@@ -1,0 +1,43 @@
+player_limit: -1
+ip_forward: false
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+timeout: 30000
+log_commands: false
+online_mode: true
+servers:
+  lobby:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25577
+    restricted: false
+listeners:
+- query_port: 25565
+  motd: '&1Another Bungee server'
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  bind_local_address: true
+  host: localhost:25565
+  max_players: 50
+  tab_size: 60
+  force_default_server: false
+  priorities:
+  - lobby
+  - lobby
+disabled_commands:
+- disabledcommandhere
+network_compression_threshold: 256
+groups:
+  md_5:
+  - admin
+connection_throttle: 4000
+stats: 94793711-70a9-40ab-922c-3f10fa9c945f
